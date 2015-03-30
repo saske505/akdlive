@@ -1,0 +1,10 @@
+C:\Users\JACO-Laptop\Desktop\AKD3\DBConnections\obj\Debug\DBConnections.csprojResolveAssemblyReference.cache
+C:\Users\JACO-Laptop\Desktop\AKD3\DBConnections\bin\Debug\DBConnections.dll
+C:\Users\JACO-Laptop\Desktop\AKD3\DBConnections\bin\Debug\DBConnections.pdb
+C:\Users\JACO-Laptop\Desktop\AKD3\DBConnections\obj\Debug\DBConnections.dll
+C:\Users\JACO-Laptop\Desktop\AKD3\DBConnections\obj\Debug\DBConnections.pdb
+C:\Users\Stephan\Desktop\jaco new files\akd4\AKD3\DBConnections\obj\Debug\DBConnections.csprojResolveAssemblyReference.cache
+C:\Users\Stephan\Desktop\jaco new files\akd4\AKD3\DBConnections\obj\Debug\DBConnections.dll
+C:\Users\Stephan\Desktop\jaco new files\akd4\AKD3\DBConnections\bin\Debug\DBConnections.dll
+C:\Users\Stephan\Desktop\jaco new files\akd4\AKD3\DBConnections\bin\Debug\DBConnections.pdb
+C:\Users\Stephan\Desktop\jaco new files\akd4\AKD3\DBConnections\obj\Debug\DBConnections.pdb
